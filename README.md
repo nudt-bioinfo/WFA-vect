@@ -21,3 +21,6 @@ To use this implementation, follow the same steps as outlined in [https://github
 ## Important Note
 
 This code does not check whether the system supports AVX instructions. If your system does not support AVX, the compilation will result in errors.
+
+## Citation
+Guo, Yifei, et al. "WFA-vect: a SIMD wavefront algorithm for gap-affine pairwise alignment." 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2024. [https://ieeexplore.ieee.org/document/10822352](https://ieeexplore.ieee.org/document/10822352)
